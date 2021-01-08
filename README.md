@@ -7,7 +7,7 @@ This is a modification of the origibnal Kedro [Space Flights tutorial](https://k
 
 ## How to run
 
-* Create a Google Cloud Nitebook instance
+* Create a Google Cloud Notebook instance
 * Install original files
 * Modify with the actual source files
 * Create a GC Bucket and a BigQuery table
